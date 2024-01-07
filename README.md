@@ -1,5 +1,4 @@
 ### Hi there 👋
-#### 我是集美大学计算机科学与技术2021级的学生。
 <!--
 **Luokon/Luokon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
